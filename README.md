@@ -2,6 +2,8 @@
 
 This app allows the user may search or select any listed company that opens their share to the market in this app and they see what may be the possible AI driven closing price for that stock at the end of that day for that market.
 
+![Alt text](static_in_env/static_root/admin/img/stock.png?raw=true)
+
 # Dependencies
 
 	urllib3==1.24
