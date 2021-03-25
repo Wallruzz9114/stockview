@@ -1,6 +1,6 @@
 urllib3==1.24
 colorama==0.3.9
-pyyaml==3.13
+pyyaml==5.4
 Django==1.11.15
 django-crispy-forms==1.7.2
 numpy==1.14.3
